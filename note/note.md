@@ -18,8 +18,7 @@ git reset --(soft | mixed | hard)  <HEAD~（num )>  | <commit ID>
 soft： 回退到上一个暂存区和本地仓库，与工作目录不一致
 mixed： 暂存区和本地工作目录一致，和仓库不一致
 
-8.git reflog: 查看各个版本信息
+8.
 git remote add origin yougithub
-9.一般master分支，是稳定后推送上线的分支，而在其他分支中所作的更改
 
 
